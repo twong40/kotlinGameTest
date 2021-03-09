@@ -1,0 +1,1 @@
+C:\Users\Thoma\IdeaProjects\kotlinTestGame\build\classes\kotlin\main\org\example\game\MyGame.class;C:\Users\Thoma\IdeaProjects\kotlinTestGame\build\classes\kotlin\main\org\example\game\MyGameKt.class
